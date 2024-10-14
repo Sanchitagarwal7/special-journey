@@ -50,3 +50,7 @@
     <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=midnight-purple" alt="GitHub Streak">
 </a>
 </div>
+
+### 🔰 Some Badges collected so far
+
+[![An image of @sanchitagarwal7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanchitagarwal7)](https://holopin.io/@sanchitagarwal7)
