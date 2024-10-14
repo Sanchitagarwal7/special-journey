@@ -28,7 +28,7 @@
 <br><br>
   
   ### 🧰 My Tools
-
+  
   <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=cpp,html,css,js,mongodb,express,react,nodejs,git,bootstrap,jquery,npm,postman,vscode,tailwind,github&perline=7" alt="My Skills">
   </a>
@@ -39,11 +39,14 @@
   
   
   ### 📊 My Stats
-  
+  <div align="center">
   <a href="https://github.com/Sanchitagarwal7/">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sanchitagarwal7&hide=stars&show=prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple&bg_color=00000000" alt="Sanchit's GitHub stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Sanchitagarwal7&hide=stars&show=prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple&bg_color=00000000" alt="Sanchit's GitHub stats">
   </a>
-
+  </div>
+  <br>
+<div align="center">
   <a href="https://git.io/streak-stats">
-    <img align="right" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" alt="GitHub Streak">
 </a>
+</div>
