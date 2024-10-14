@@ -20,3 +20,8 @@ I am passionate fullstack MERN developer who has interest in contributing and le
 - 📄 Know about my experiences [my_resume](resume_link)
 
 <!--- ⚡ Fun fact **I think i am funny**-->
+<div align="right">
+  <a href="https://github.com/Sanchitagarwal7/">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sanchitagarwal7&hide=stars&show=prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple" alt="Sanchit's GitHub stats">
+  </a>
+</div>
