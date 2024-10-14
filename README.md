@@ -25,6 +25,8 @@
   - 📄 Know about my experiences [my_resume](resume_link)
   
   <!--- ⚡ Fun fact **I think i am funny** -->
+<br><br>
+  
   ### 🧰 My Tools
 
   <a href="https://skillicons.dev">
@@ -33,14 +35,15 @@
   <a href="https://github.com/Sanchitagarwal7/github-readme-stats">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanchitagarwal7&exclude_repo=Stock_Prediction&layout=donut&theme=midnight-purple"           alt="Top Langs">
   </a>
+  <br><br><br>
+  
+  
+  ### 📊 My Stats
+  
+  <a href="https://github.com/Sanchitagarwal7/">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sanchitagarwal7&hide=stars&show=prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple&bg_color=00000000" alt="Sanchit's GitHub stats">
+  </a>
 
-
-
-
-<!--
-<div>
-    <a href="https://github.com/Sanchitagarwal7/">
-      <img src="https://github-readme-stats.vercel.app/api?username=Sanchitagarwal7&hide=stars&show=prs_merged,prs_merged_percentage&show_icons=true&theme=midnight-purple&bg_color=00000000" alt="Sanchit's GitHub stats">
-    </a>
-</div>
--->
+  <a href="https://git.io/streak-stats">
+    <img align="right" src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" alt="GitHub Streak">
+</a>
