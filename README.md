@@ -22,7 +22,7 @@
   
   - 📫 How to reach me **sanchita.g893@gmail.com**
   
-  - 📄 Know about my experiences [my_resume](resume_link)
+  <!--- - 📄 Know about my experiences [my_resume](resume_link) -->
   
   <!--- ⚡ Fun fact **I think i am funny** -->
 <br><br>
