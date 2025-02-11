@@ -47,8 +47,8 @@
   <br>
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=midnight-purple" alt="GitHub Streak">
-</a>
+        <img src="https://streak-stats.demolab.com/?user=sanchitagarwal7&theme=midnight-purple" alt="GitHub Streak">
+    </a>
 </div>
 
 ### 🔰 Some Badges collected so far
